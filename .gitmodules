@@ -1,0 +1,3 @@
+[submodule "myChildSubmodule"]
+	path = myChildSubmodule
+	url = https://github.com/Libra-Jia/git_child.git
